@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ekmekssmp.aternos.me",
-    "port": 57653,
+    "port": 30300,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "ekmek",
+        "ben ekmek bağımlısıyım",
+        "ekmek nimettir"
       ]
     },
     "chat-log": true,
