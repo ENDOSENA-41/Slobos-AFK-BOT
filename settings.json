@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "EKMEK_sevdalısı",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "ekmekssmp.aternos.me",
-    "port": 30300,
-    "version": "1.21.1"
+    "port": 44695,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
